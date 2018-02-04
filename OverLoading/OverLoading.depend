@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449957568 source:/home/dogan/Masaüstü/Nesne/OverLoading/src/twoDArray.cpp
+	"twoDArray.h"
+	<iomanip>
+
+1449956059 /home/dogan/Masaüstü/Nesne/OverLoading/include/twoDArray.h
+	<iostream>
+
+1449957512 source:/home/dogan/Masaüstü/Nesne/OverLoading/main.cpp
+	<iostream>
+	"twoDArray.h"
+
